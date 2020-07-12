@@ -1,2 +1,2 @@
 # insta-puppeteer
-Intsgram scraping using the puppeteer package
+Intsgram content scraping using the puppeteer package
